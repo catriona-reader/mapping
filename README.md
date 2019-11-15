@@ -4,11 +4,7 @@
 #### [See code here](mapping_code.ipynb)
 
 
-Experimenting with mapping from shapefiles + pandas dataframes 
-- plotting directly from a pandas dataframe 
-- lineplots with only certain elements highlighted 
-- in-line labelling 
-
+Experimenting with mapping from shapefiles + pandas dataframes. 
 
 Life expectancy data used in this example is from the Office for National Statistics.  
 
